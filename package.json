@@ -1,0 +1,22 @@
+{
+  "name": "recipe_connection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KatsuhideAsanuma/recipe_connection.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KatsuhideAsanuma/recipe_connection/issues"
+  },
+  "homepage": "https://github.com/KatsuhideAsanuma/recipe_connection#readme",
+  "dependencies": {
+    "cities": "^2.0.0"
+  }
+}
